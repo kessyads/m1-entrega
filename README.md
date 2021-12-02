@@ -1,9 +1,9 @@
 #Entrega: Trabalhando em equipe com git.
 
-## Fato sobre <Pedro Rezende>
+## Fato sobre <Késia Rodrigues>
 
-1. Pedro Henrique Alcantara Rezende;
+1. Késia Amanda dos Santos Rodrigues;
 
-2. Me chamo Pedro, atualmente moro em Belo Horizonte/MG, tenho 23 anos. Tenho como objetivo hoje me tornar um dev FullStack e conseguir ser um profissional qualificado na area tech. Como experiencias pessoais e profissionais, já fui atleta e também ja tive próprio negocio, mas atualmente carrego o desejo de ter uma profissão, me realocar no mercado de trabalho, em uma ótima área, assim conseguindo alcançar meus objetivos;
+2. Olá! Tudo bem? Como pode ver, me chamo Késia, mas por favor, só Késsy ou Ké. Moro em Porto Feliz, interior de São Paulo desde sempre. Já trabalhei como Assistente Administrativo, como professora de Inglês e sou Bacharel em Tradução, mas descobre que a minha verdadeira vocação com apenas 2 meses meses estudando, coisa que nunca me senti com quatro anos de faculdade. Sou uma leitora assídua, apaixonada por música, animais e o mundo geek. Por viagens também!
 
-3. Escolhi a area tech devido a grande ligação que sempre tive com a tecnologia, mesmo nunca tendo contato com a area DEV, sempre fui um grande fã. Ser um profissional de TI hoje, é uma grande conquista, boas remunerações, liberdade geografica, assim possibilitando realização de sonhos pessoais e profissionais;'   
+3. Desde muito nova tive contato com a área de TI por conta do meu irmão mais velho, hoje em dia ele atua como Scrum Master e eu pensei: por que não? E amei. Foi uma das melhores escolhas da minha vida, a sensação de criar, fazer networks como todo tipo de gente, conversar com uma máquina e desenvolver projetos é simplesmente maravilhosa. De forma que eu espero me formar com orgulho do que vivi e poder trabalhar em um lugar que reconheça talentos, para que eu possa crescer pessoal e profissionalmente.    
